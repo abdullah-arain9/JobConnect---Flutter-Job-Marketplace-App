@@ -3,7 +3,7 @@
 A modern Flutter job marketplace application that connects job seekers with opportunities through a clean, intuitive interface. Designed with a soft gradient aesthetic, smooth animations, and a fully responsive layout.
 
 <p align="center">
-  <img src="screenshots/app_preview.png" alt="Minimalapp Preview" width="100%">
+ <img src="app_preview.png" alt="Minimalapp Preview" width="100%">
 </p>
 
 ---
